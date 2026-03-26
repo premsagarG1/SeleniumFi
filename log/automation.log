@@ -206,3 +206,27 @@
 17:37:09:558 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
 17:37:11:595 [%] INFO  testCases.LoginTest ***login page execution started******
 17:37:13:460 [%] INFO  testCases.LoginTest *** login page execution completed******
+21:27:28:845 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+21:27:29:192 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+21:27:29:735 [%] INFO  testCases.AccountRegistrationTest registration started
+21:27:29:739 [%] INFO  testCases.AccountRegistrationTest provide user details
+21:27:31:864 [%] INFO  testCases.AccountRegistrationTest verifing user details
+21:27:31:952 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
+21:27:34:780 [%] INFO  testCases.LoginTest ***login page execution started******
+21:27:37:071 [%] INFO  testCases.LoginTest *** login page execution completed******
+21:33:07:252 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+21:33:07:929 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+21:33:08:382 [%] INFO  testCases.AccountRegistrationTest registration started
+21:33:08:385 [%] INFO  testCases.AccountRegistrationTest provide user details
+21:33:10:325 [%] INFO  testCases.AccountRegistrationTest verifing user details
+21:33:10:392 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
+21:33:13:129 [%] INFO  testCases.LoginTest ***login page execution started******
+21:33:14:827 [%] INFO  testCases.LoginTest *** login page execution completed******
+21:34:07:111 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+21:34:07:735 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+21:34:08:255 [%] INFO  testCases.AccountRegistrationTest registration started
+21:34:08:262 [%] INFO  testCases.AccountRegistrationTest provide user details
+21:34:09:491 [%] INFO  testCases.AccountRegistrationTest verifing user details
+21:34:10:453 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
+21:34:12:869 [%] INFO  testCases.LoginTest ***login page execution started******
+21:34:14:468 [%] INFO  testCases.LoginTest *** login page execution completed******
