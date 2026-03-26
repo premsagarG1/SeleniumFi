@@ -1,0 +1,100 @@
+18:18:16:633 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:18:17:004 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:18:17:468 [%] INFO  testCases.AccountRegistrationTest registration started
+18:18:17:474 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:18:19:462 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:19:28:522 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:19:29:186 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:19:29:629 [%] INFO  testCases.AccountRegistrationTest registration started
+18:19:29:634 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:19:31:553 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:22:55:785 [%] ERROR testCases.AccountRegistrationTest test failed
+18:36:02:402 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:36:02:683 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:36:03:124 [%] INFO  testCases.AccountRegistrationTest registration started
+18:36:03:127 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:36:05:270 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:36:05:353 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+18:37:15:444 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:37:15:690 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:37:16:248 [%] INFO  testCases.AccountRegistrationTest registration started
+18:37:16:252 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:37:18:296 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:37:18:381 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+18:37:35:390 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:37:35:991 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:37:36:412 [%] INFO  testCases.AccountRegistrationTest registration started
+18:37:36:422 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:37:38:728 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:37:38:812 [%] ERROR testCases.AccountRegistrationTest test failed
+18:37:38:813 [%] DEBUG testCases.AccountRegistrationTest debugg level
+18:53:23:581 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:53:23:904 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:53:24:468 [%] INFO  testCases.AccountRegistrationTest registration started
+18:53:24:490 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:53:26:658 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:53:26:719 [%] ERROR testCases.AccountRegistrationTest test failed
+18:53:26:720 [%] DEBUG testCases.AccountRegistrationTest debugg level
+18:54:02:370 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:54:02:710 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:54:03:222 [%] INFO  testCases.AccountRegistrationTest registration started
+18:54:03:228 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:54:05:069 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:54:05:226 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+18:55:49:068 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:55:49:505 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:55:50:107 [%] INFO  testCases.AccountRegistrationTest registration started
+18:55:50:112 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:55:52:234 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:55:52:311 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+18:55:55:339 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:55:55:506 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:55:55:924 [%] INFO  testCases.AccountRegistrationTest registration started
+18:55:55:931 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:55:57:534 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:55:57:577 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+18:56:20:587 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:56:20:733 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:56:21:058 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:56:21:428 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:56:21:931 [%] INFO  testCases.AccountRegistrationTest registration started
+18:56:21:933 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:56:22:067 [%] INFO  testCases.AccountRegistrationTest registration started
+18:56:22:069 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:56:25:052 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:56:25:198 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+18:56:25:297 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:56:25:435 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+18:56:59:774 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:57:00:120 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+18:57:00:379 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:57:00:529 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:57:00:892 [%] INFO  testCases.AccountRegistrationTest registration started
+18:57:00:897 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:57:01:282 [%] INFO  testCases.AccountRegistrationTest registration started
+18:57:01:285 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:57:03:226 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:57:03:290 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+18:57:03:526 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:57:03:596 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+19:15:30:016 [%] INFO  testCases.AccountRegistrationTest *** loging is started****
+19:15:30:233 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+19:15:30:633 [%] INFO  testCases.AccountRegistrationTest registration started
+19:15:30:636 [%] INFO  testCases.AccountRegistrationTest provide user details
+19:15:32:633 [%] INFO  testCases.AccountRegistrationTest verifing user details
+19:15:32:710 [%] INFO  testCases.AccountRegistrationTest ***Execution stapped****
+22:14:37:092 [%] INFO  testCases.LoginTest ***login page execution started******
+22:14:39:708 [%] INFO  testCases.LoginTest *** login page execution completed******
+22:20:21:534 [%] INFO  testCases.LoginTest ***login page execution started******
+22:23:53:273 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+22:23:53:506 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+22:23:53:929 [%] INFO  testCases.AccountRegistrationTest registration started
+22:23:53:935 [%] INFO  testCases.AccountRegistrationTest provide user details
+22:23:56:565 [%] INFO  testCases.AccountRegistrationTest verifing user details
+22:23:56:623 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
+22:25:37:196 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+22:25:37:440 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+22:25:37:910 [%] INFO  testCases.AccountRegistrationTest registration started
+22:25:37:914 [%] INFO  testCases.AccountRegistrationTest provide user details
+22:25:39:970 [%] INFO  testCases.AccountRegistrationTest verifing user details
+22:25:40:050 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
