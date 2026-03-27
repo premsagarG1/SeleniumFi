@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-26T21:34:03 IST" name="Suite" finished-at="2026-03-26T21:34:14 IST" duration-ms="11374">
+  <suite started-at="2026-03-27T08:35:48 IST" name="Suite" finished-at="2026-03-27T08:36:00 IST" duration-ms="12548">
     <groups>
       <group name="Master">
-        <method signature="AccountRegistrationTest.Registration()[pri:0, instance:testCases.AccountRegistrationTest@6dc17b83]" name="Registration" class="testCases.AccountRegistrationTest"/>
-        <method signature="LoginTest.login()[pri:0, instance:testCases.LoginTest@3ce1e309]" name="login" class="testCases.LoginTest"/>
+        <method signature="AccountRegistrationTest.Registration()[pri:0, instance:testCases.AccountRegistrationTest@2ddc9a9f]" name="Registration" class="testCases.AccountRegistrationTest"/>
+        <method signature="LoginTest.login()[pri:0, instance:testCases.LoginTest@26d9b808]" name="login" class="testCases.LoginTest"/>
       </group> <!-- Master -->
       <group name="Sanity">
-        <method signature="LoginTest.login()[pri:0, instance:testCases.LoginTest@3ce1e309]" name="login" class="testCases.LoginTest"/>
+        <method signature="LoginTest.login()[pri:0, instance:testCases.LoginTest@26d9b808]" name="login" class="testCases.LoginTest"/>
       </group> <!-- Sanity -->
       <group name="Regression">
-        <method signature="AccountRegistrationTest.Registration()[pri:0, instance:testCases.AccountRegistrationTest@6dc17b83]" name="Registration" class="testCases.AccountRegistrationTest"/>
+        <method signature="AccountRegistrationTest.Registration()[pri:0, instance:testCases.AccountRegistrationTest@2ddc9a9f]" name="Registration" class="testCases.AccountRegistrationTest"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2026-03-26T21:34:03 IST" name="Test" finished-at="2026-03-26T21:34:14 IST" duration-ms="11374">
+    <test started-at="2026-03-27T08:35:48 IST" name="Test" finished-at="2026-03-27T08:36:00 IST" duration-ms="12548">
       <class name="testCases.LoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@3ce1e309]" started-at="2026-03-26T21:34:10 IST" name="setUp" finished-at="2026-03-26T21:34:12 IST" duration-ms="2092" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@26d9b808]" started-at="2026-03-27T08:35:57 IST" name="setUp" finished-at="2026-03-27T08:35:59 IST" duration-ms="2040" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,17 +33,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="login()[pri:0, instance:testCases.LoginTest@3ce1e309]" started-at="2026-03-26T21:34:12 IST" name="login" finished-at="2026-03-26T21:34:14 IST" duration-ms="1600" status="PASS">
+        <test-method signature="login()[pri:0, instance:testCases.LoginTest@26d9b808]" started-at="2026-03-27T08:35:59 IST" name="login" finished-at="2026-03-27T08:36:00 IST" duration-ms="1504" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginTest@3ce1e309]" started-at="2026-03-26T21:34:14 IST" name="tearDown" finished-at="2026-03-26T21:34:14 IST" duration-ms="288" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginTest@26d9b808]" started-at="2026-03-27T08:36:00 IST" name="tearDown" finished-at="2026-03-27T08:36:00 IST" duration-ms="242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.LoginTest -->
       <class name="testCases.AccountRegistrationTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.AccountRegistrationTest@6dc17b83]" started-at="2026-03-26T21:34:03 IST" name="setUp" finished-at="2026-03-26T21:34:07 IST" duration-ms="3437" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.AccountRegistrationTest@2ddc9a9f]" started-at="2026-03-27T08:35:48 IST" name="setUp" finished-at="2026-03-27T08:35:53 IST" duration-ms="5229" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,11 +59,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Registration()[pri:0, instance:testCases.AccountRegistrationTest@6dc17b83]" started-at="2026-03-26T21:34:07 IST" name="Registration" finished-at="2026-03-26T21:34:10 IST" duration-ms="3354" status="PASS">
+        <test-method signature="Registration()[pri:0, instance:testCases.AccountRegistrationTest@2ddc9a9f]" started-at="2026-03-27T08:35:53 IST" name="Registration" finished-at="2026-03-27T08:35:56 IST" duration-ms="2863" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.AccountRegistrationTest@6dc17b83]" started-at="2026-03-26T21:34:10 IST" name="tearDown" finished-at="2026-03-26T21:34:10 IST" duration-ms="278" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.AccountRegistrationTest@2ddc9a9f]" started-at="2026-03-27T08:35:56 IST" name="tearDown" finished-at="2026-03-27T08:35:57 IST" duration-ms="290" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
