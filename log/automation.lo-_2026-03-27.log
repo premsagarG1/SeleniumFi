@@ -1,0 +1,39 @@
+18:13:10:474 [%] INFO  testCases.LoginTest ***login page execution started******
+18:13:12:922 [%] INFO  testCases.LoginTest *** login page execution completed******
+18:14:37:668 [%] INFO  testCases.LoginTest ***login page execution started******
+18:14:41:529 [%] INFO  testCases.LoginTest *** login page execution completed******
+18:15:54:120 [%] INFO  testCases.LoginTest ***login page execution started******
+18:15:56:313 [%] INFO  testCases.LoginTest *** login page execution completed******
+18:18:49:033 [%] INFO  testCases.LoginTest ***login page execution started******
+18:18:51:278 [%] INFO  testCases.LoginTest *** login page execution completed******
+18:21:12:620 [%] INFO  testCases.LoginTest ***login page execution started******
+18:21:16:444 [%] INFO  testCases.LoginTest *** login page execution completed******
+18:23:02:487 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+18:23:04:140 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:23:04:781 [%] INFO  testCases.AccountRegistrationTest registration started
+18:23:04:786 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:23:07:743 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:23:07:818 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
+18:25:39:605 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+18:25:40:030 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+18:25:40:610 [%] INFO  testCases.AccountRegistrationTest registration started
+18:25:40:615 [%] INFO  testCases.AccountRegistrationTest provide user details
+18:25:43:309 [%] INFO  testCases.AccountRegistrationTest verifing user details
+18:25:43:382 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
+18:26:12:455 [%] INFO  testCases.LoginTest ***login page execution started******
+18:32:53:815 [%] INFO  testCases.LoginTest ***login page execution started******
+18:34:57:973 [%] INFO  testCases.LoginTest ***login page execution started******
+18:38:38:666 [%] INFO  testCases.LoginTest ***login page execution started******
+18:40:15:770 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+18:40:19:536 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+18:40:19:577 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+18:40:32:052 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+18:40:32:073 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+18:40:36:481 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+18:40:39:878 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+18:40:39:896 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+18:40:42:201 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+18:40:42:225 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+18:40:53:884 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+18:42:43:369 [%] INFO  testCases.LoginTest ***login page execution started******
+18:42:45:342 [%] INFO  testCases.LoginTest *** login page execution completed******

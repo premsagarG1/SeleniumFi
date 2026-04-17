@@ -1,8 +1,42 @@
-08:35:53:928 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
-08:35:54:236 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
-08:35:54:823 [%] INFO  testCases.AccountRegistrationTest registration started
-08:35:54:829 [%] INFO  testCases.AccountRegistrationTest provide user details
-08:35:56:740 [%] INFO  testCases.AccountRegistrationTest verifing user details
-08:35:56:783 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
-08:35:59:132 [%] INFO  testCases.LoginTest ***login page execution started******
-08:36:00:634 [%] INFO  testCases.LoginTest *** login page execution completed******
+15:04:26:468 [%] INFO  testCases.LoginTest ***login page execution started******
+15:04:28:785 [%] INFO  testCases.LoginTest *** login page execution completed******
+15:17:23:822 [%] INFO  testCases.LoginTest ***login page execution started******
+15:17:25:879 [%] INFO  testCases.LoginTest *** login page execution completed******
+15:20:08:741 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+15:20:09:268 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+15:20:10:012 [%] INFO  testCases.AccountRegistrationTest registration started
+15:20:10:016 [%] INFO  testCases.AccountRegistrationTest provide user details
+15:20:13:280 [%] INFO  testCases.AccountRegistrationTest verifing user details
+15:20:13:371 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
+15:20:17:337 [%] INFO  testCases.LoginTest ***login page execution started******
+15:20:20:617 [%] INFO  testCases.LoginTest *** login page execution completed******
+15:20:26:922 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:20:33:226 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+15:20:33:253 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:20:45:318 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+15:20:45:333 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:20:48:507 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:20:51:447 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+15:20:51:464 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:20:54:164 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+15:20:54:194 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:21:06:211 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+15:58:49:458 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+15:58:50:379 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+15:58:51:037 [%] INFO  testCases.AccountRegistrationTest registration started
+15:58:51:327 [%] INFO  testCases.AccountRegistrationTest provide user details
+15:58:52:555 [%] INFO  testCases.AccountRegistrationTest verifing user details
+15:58:53:510 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****
+15:58:58:099 [%] INFO  testCases.LoginTest ***login page execution started******
+15:59:00:975 [%] INFO  testCases.LoginTest *** login page execution completed******
+15:59:07:467 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:59:09:572 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+15:59:09:577 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:59:20:482 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+15:59:20:486 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:59:23:758 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:59:26:412 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+15:59:26:416 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:59:29:042 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
+15:59:29:045 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test started****
+15:59:41:031 [%] INFO  testCases.LoginDataDrivenTest ***login data driver test completed****
