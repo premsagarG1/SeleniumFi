@@ -77,10 +77,9 @@ public class BaseClass{
 		default :System.out.println("invalid browser");
 		return;
 		}*/
-		capabilites.setCapability("os", "windows");
-		capabilites.setCapability("os_version", "10");
-		capabilites.setCapability("browser", "chrome");
-		capabilites.setCapability("name", "premssssss");
+		capabilites.setCapability("os", "Windows");
+		capabilites.setCapability("osVersion", "10");
+		capabilites.setCapability("browserName", "Edge");
 		driver=new RemoteWebDriver(new URL(url),capabilites);
 	   //driver=new RemoteWebDriver(new URL("http://192.168.1.6:4444/wd/hub"), capabilites);
 
