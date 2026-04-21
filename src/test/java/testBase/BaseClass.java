@@ -32,6 +32,10 @@ public class BaseClass{
 	public Logger logger; 
 	
 	public static WebDriver driver;
+	public static final String username = "premborkut_pCOSdi";
+	public static final String accessKey = "UscsVSsipkBucaLpwzts";
+	public static final String url = "https://" + username + ":" + accessKey + "@hub-cloud.browserstack.com/wd/hub";
+    
 	
 	public Properties prop;
 	@BeforeClass(groups= {"Sanity","Regression","Master"})
@@ -73,7 +77,10 @@ public class BaseClass{
 		default :System.out.println("invalid browser");
 		return;
 		}
-		driver=new RemoteWebDriver(new URL("http://192.168.1.6:4444/wd/hub"), capabilites);
+		capabilites.setCapability("name", "premssssss");
+		driver=new RemoteWebDriver(new URL(url),capabilites);
+	   //driver=new RemoteWebDriver(new URL("http://192.168.1.6:4444/wd/hub"), capabilites);
+
 	}
 		
 		if(prop.getProperty("execution_env").equalsIgnoreCase("local"))

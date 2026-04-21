@@ -1,0 +1,6 @@
+21:18:32:888 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+21:18:33:432 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+21:18:34:366 [%] INFO  testCases.AccountRegistrationTest registration started
+21:18:34:373 [%] INFO  testCases.AccountRegistrationTest provide user details
+21:18:36:914 [%] INFO  testCases.AccountRegistrationTest verifing user details
+21:18:36:983 [%] INFO  testCases.AccountRegistrationTest ***registration page Execution completed****

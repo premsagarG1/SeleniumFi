@@ -8,13 +8,13 @@
     <parameter name="os" value="window"/>
     <parameter name="browser" value="edge"/>
     <classes>
-      <class name="testCases.LoginDataDrivenTest">
+      <class name="testCases.AccountRegistrationTest">
         <methods>
+          <include name="Registration"/>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="verifyUser" invocation-numbers="2"/>
         </methods>
-      </class> <!-- testCases.LoginDataDrivenTest -->
+      </class> <!-- testCases.AccountRegistrationTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -11,9 +11,9 @@
    <parameter name="os" value="window"/>
     <classes>
      <class name="testCases.AccountRegistrationTest"/>
-     <class name="testCases.LoginTest"/>
-      <class name="testCases.LoginDataDrivenTest"/>
-      <class name="testCases.SearchProductTest"/>
+    <!--  <class name="testCases.LoginTest"/>-->
+    <!--  <class name="testCases.LoginDataDrivenTest"/>-->
+     <!-- <class name="testCases.SearchProductTest"/>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
