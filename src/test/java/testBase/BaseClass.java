@@ -55,7 +55,7 @@ public class BaseClass{
 		if(prop.getProperty("execution_env").equalsIgnoreCase("remote")) {
 			
 			DesiredCapabilities capabilites=new DesiredCapabilities();
-			
+			/*
 			if(os.equalsIgnoreCase("window")) {
 				capabilites.setPlatform(Platform.WIN10);
 			}
@@ -76,7 +76,11 @@ public class BaseClass{
 		case "edge":capabilites.setBrowserName("MicrosoftEdge");break;
 		default :System.out.println("invalid browser");
 		return;
-		}
+		}*/
+		capabilites.setCapability("os", "Windows");
+		capabilites.setCapability("os_version", "10");
+		capabilites.setCapability("browser", "Chrome");
+		capabilites.setCapability("browser_version", "80");
 		capabilites.setCapability("name", "premssssss");
 		driver=new RemoteWebDriver(new URL(url),capabilites);
 	   //driver=new RemoteWebDriver(new URL("http://192.168.1.6:4444/wd/hub"), capabilites);
