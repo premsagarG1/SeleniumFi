@@ -52,7 +52,6 @@ public class SearchProductTest extends BaseClass{
 			}
 	
 		}
-	
 		catch (Exception e) {
 			Assert.fail();
 		}

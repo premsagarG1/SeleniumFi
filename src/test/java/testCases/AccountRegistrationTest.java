@@ -50,7 +50,7 @@ public class AccountRegistrationTest extends BaseClass {
 		
 		//Assert.assertEquals(m, "Your Account Has Been Created!");
 		
-		
+		System.out.println("hello");
 		}catch(Exception e) {
 			
 			Assert.fail();
