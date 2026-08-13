@@ -79,7 +79,7 @@ public class BaseClass{
 		}*/
 		capabilites.setCapability("os", "Windows");
 		capabilites.setCapability("osVersion", "10");
-		capabilites.setCapability("browserName", "Edge");
+		capabilites.setCapability("browserName", "chromium");
 		driver=new RemoteWebDriver(new URL(url),capabilites);
 	   //driver=new RemoteWebDriver(new URL("http://192.168.1.6:4444/wd/hub"), capabilites);
 

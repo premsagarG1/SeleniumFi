@@ -52,11 +52,18 @@ public class SearchProductTest extends BaseClass{
 			}
 	
 		}
-	
 		catch (Exception e) {
 			Assert.fail();
 		}
 	}
+	
+
+	@Test(groups = {"Sanity"})
+	public void addToCart() {
+		System.out.println("hello i am a new TestCase");
+		
+	}
+	
 	
 	
 }

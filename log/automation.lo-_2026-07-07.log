@@ -1,0 +1,12 @@
+19:14:24:372 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+19:14:24:751 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+19:14:25:289 [%] INFO  testCases.AccountRegistrationTest registration started
+19:14:25:295 [%] INFO  testCases.AccountRegistrationTest provide user details
+19:14:27:033 [%] INFO  testCases.AccountRegistrationTest verifing user details
+19:14:37:224 [%] ERROR testCases.AccountRegistrationTest test failed
+19:15:51:656 [%] INFO  testCases.AccountRegistrationTest *** home page is started****
+19:15:52:271 [%] INFO  testCases.AccountRegistrationTest My Account btn clicked
+19:15:52:783 [%] INFO  testCases.AccountRegistrationTest registration started
+19:15:52:790 [%] INFO  testCases.AccountRegistrationTest provide user details
+19:15:54:392 [%] INFO  testCases.AccountRegistrationTest verifing user details
+19:16:04:461 [%] ERROR testCases.AccountRegistrationTest test failed
