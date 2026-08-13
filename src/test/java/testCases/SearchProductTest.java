@@ -58,5 +58,10 @@ public class SearchProductTest extends BaseClass{
 		}
 	}
 	
+	@Test(groups =  {"sanity"})
+	public void ePass() {
+		System.out.println("hello i am epass");
+	}
+	
 	
 }
