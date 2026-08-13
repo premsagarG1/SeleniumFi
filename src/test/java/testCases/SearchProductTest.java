@@ -57,5 +57,13 @@ public class SearchProductTest extends BaseClass{
 		}
 	}
 	
+
+	@Test(groups = {"Sanity"})
+	public void addToCart() {
+		System.out.println("hello i am a new TestCase");
+		
+	}
+	
+	
 	
 }
