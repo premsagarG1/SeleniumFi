@@ -52,16 +52,32 @@ public class SearchProductTest extends BaseClass{
 			}
 	
 		}
-	
 		catch (Exception e) {
 			Assert.fail();
 		}
 	}
 	
+<<<<<<< HEAD
 	@Test(groups =  {"sanity"})
 	public void ePass() {
 		System.out.println("hello i am epass");
 	}
 	
+=======
+
+	@Test(groups = {"Sanity"})
+	public void addToCart() {
+		System.out.println("i am a cart");
+		
+	}
+	
+	@Test(groups = {"Master"})
+	public void makeApayment() {
+		System.out.println("click here to pay");
+		
+	}
+	
+	
+>>>>>>> main
 	
 }
