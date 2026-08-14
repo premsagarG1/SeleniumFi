@@ -57,6 +57,13 @@ public class SearchProductTest extends BaseClass{
 		}
 	}
 	
+<<<<<<< HEAD
+	@Test(groups =  {"sanity"})
+	public void ePass() {
+		System.out.println("hello i am epass");
+	}
+	
+=======
 
 	@Test(groups = {"Sanity"})
 	public void addToCart() {
@@ -71,5 +78,6 @@ public class SearchProductTest extends BaseClass{
 	}
 	
 	
+>>>>>>> main
 	
 }
